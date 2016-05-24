@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DETAILS>
+		<CUSTOMER>
+				<CUSTOMERID>1</CUSTOMERID>
+				<NAME>Hemant</NAME>
+				<LVT>9:45am</LVT>
+		</CUSTOMER>
+		<CUSTOMER>
+				<CUSTOMERID>2</CUSTOMERID>
+				<NAME>akhil</NAME>
+				<LVT>10.45am</LVT>
+		</CUSTOMER>
+		<CUSTOMER>
+				<CUSTOMERID>3</CUSTOMERID>
+				<NAME>shubham</NAME>
+				<LVT>12.45pm</LVT>
+		</CUSTOMER>
+		<CUSTOMER>
+				<CUSTOMERID>4</CUSTOMERID>
+				<NAME>piyush</NAME>
+				<LVT>01.25pm</LVT>
+		</CUSTOMER>
+		<CUSTOMER>
+				<CUSTOMERID>5</CUSTOMERID>
+				<NAME>andrick</NAME>
+				<LVT>04.55pm</LVT>
+		</CUSTOMER>
+</DETAILS>
